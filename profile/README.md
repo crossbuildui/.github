@@ -21,7 +21,7 @@ Our mission is to empower developers and teams to ship consistent, scalable user
   <a href="https://www.npmjs.com/package/@crossbuildui/core">
     <img src="https://img.shields.io/npm/dm/@crossbuildui/core" alt="npm downloads" />
   </a>
-  <a href="https://discord.gg/UNFyAjsp">
+  <a href="https://discord.gg/QUgPps8hUn">
     <img src="https://img.shields.io/discord/QUgPps8hUn?label=Join%20Community&logo=discord&color=5865F2" alt="Discord" />
   </a>
   <a href="https://twitter.com/crossbuildui">
