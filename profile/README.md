@@ -1,8 +1,33 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/212315651?s=400&u=f6285fe443652ec5009b9b9b2efdf75fc8f8d127&v=4" height="80" alt="Crossbuild UI logo" />
+</p>
+
 # Welcome to Crossbuild UI 🚀
 
 Crossbuild UI is a modern, open-source design system and component library tailored for building beautiful, accessible, and performant mobile apps with Expo.
 
 Our mission is to empower developers and teams to ship consistent, scalable user interfaces **faster** — with a rich collection of **themes**, **templates**, and **components** designed for flexibility and ease of use.
+
+<p align="center">
+  <a href="https://github.com/crossbuildui/crossbuildui/stargazers">
+    <img src="https://img.shields.io/github/stars/crossbuildui/crossbuildui?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/crossbuildui/crossbuildui/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/crossbuildui/crossbuildui" alt="License" />
+  </a>
+  <a href="https://www.npmjs.com/package/@crossbuildui/core">
+    <img src="https://img.shields.io/npm/v/@crossbuildui/core" alt="npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/@crossbuildui/core">
+    <img src="https://img.shields.io/npm/dm/@crossbuildui/core" alt="npm downloads" />
+  </a>
+  <a href="https://discord.gg/UNFyAjsp">
+    <img src="https://img.shields.io/discord/QUgPps8hUn?label=Join%20Community&logo=discord&color=5865F2" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/crossbuildui">
+    <img src="https://img.shields.io/twitter/follow/crossbuildui?style=social" alt="Twitter follow" />
+  </a>
+</p>
 
 ---
 
