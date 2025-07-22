@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/212315651?s=400&u=f6285fe443652ec5009b9b9b2efdf75fc8f8d127&v=4" height="80" alt="Crossbuild UI logo" />
-</p>
-
 # Welcome to Crossbuild UI 🚀
 
 Crossbuild UI is a modern, open-source design system and component library tailored for building beautiful, accessible, and performant mobile apps with Expo.
 
 Our mission is to empower developers and teams to ship consistent, scalable user interfaces **faster** — with a rich collection of **themes**, **templates**, and **components** designed for flexibility and ease of use.
+
+<p align="center">
+  <img src="https://github.com/crossbuildui/.github/blob/a3092883271962d95955f36bddc2f6f5e273e00a/profile/crossbuild-ui-cover.png" />
+</p>
 
 <p align="center">
   <a href="https://github.com/crossbuildui/crossbuildui/stargazers">
